@@ -45,10 +45,10 @@ Four models were evaluated for their multi-label classification effectiveness:
 
 ![image](https://github.com/user-attachments/assets/2e05d57d-0815-4948-b649-6ef177bf7821)
 
-•⁠  *⁠*DenseNet-121**: Best performer with balanced recall and precision, highest F1-score, and robust AUC and validation accuracy.
-•⁠  ⁠**ResNet50**: Strong generalization with consistent validation AUC and accuracy.
-•⁠  ⁠**VGG16**: Moderate performance, showing signs of overfitting.
-•⁠  ⁠**ViT**: Poor adaptation to dataset, struggling with validation AUC and accuracy.
+- **DenseNet-121**: Best performer with balanced recall and precision, highest F1-score, and robust AUC and validation accuracy.
+- **ResNet50**: Strong generalization with consistent validation AUC and accuracy.
+- **VGG16**: Moderate performance, showing signs of overfitting.
+- **ViT**: Poor adaptation to dataset, struggling with validation AUC and accuracy.
 
 ## Conclusion
 
